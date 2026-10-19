@@ -1,0 +1,29 @@
+{
+  "name": "@sinergiefek/pimiui-tokens",
+  "version": "0.1.0",
+  "description": "The Anti-AI-Slop Design Token & Motion Physics Engine for High-Authority Web Interfaces",
+  "main": "src/tailwind-plugin.js",
+  "style": "src/pimiui.css",
+  "scripts": {
+    "test": "node tests/test_tokens.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinergiefek/pimiui-tokens.git"
+  },
+  "keywords": [
+    "design-tokens",
+    "anti-ai-slop",
+    "tailwind",
+    "dark-mode",
+    "spring-physics",
+    "pimiui",
+    "css"
+  ],
+  "author": "Setijono <pipi@sinergimitravisitama.my.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinergiefek/pimiui-tokens/issues"
+  },
+  "homepage": "https://github.com/sinergiefek/pimiui-tokens#readme"
+}
